@@ -1,4 +1,5 @@
 # Start Web Project
+Learning how to use git 
 
 ## Intro
 
